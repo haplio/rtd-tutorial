@@ -16,4 +16,4 @@ This is the second subheading and we are doing incredible things here
 Subheading 3
 ------------
 
-The above should get recognised as a subheading even with only 3 dashes underneath, correct?
+The above should get recognised as a subheading even with only 3 dashes underneath, correct? Incorrect, the dashes need to be at least as long as the subheading
