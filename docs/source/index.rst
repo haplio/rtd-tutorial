@@ -21,6 +21,7 @@ Contents
 
 .. toctree::
    :hidden:
+   :maxdepth: 1
    :caption: Original Tree
    :name: sec-original
 
@@ -30,6 +31,7 @@ Contents
 
 .. toctree::
    :hidden:
+   :maxdepth: 1
    :caption: Next Tree
    :name: sec-next
 
