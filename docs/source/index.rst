@@ -20,7 +20,17 @@ Contents
 --------
 
 .. toctree::
+   :hidden:
+   :caption: Original Tree
+   :name: sec-original
 
    usage
    api
    moving-on
+
+.. toctree::
+   :hidden:
+   :caption: Next Tree
+   :name: sec-next
+
+   next-begin
