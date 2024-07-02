@@ -1,10 +1,14 @@
-Welcome to Lumache's documentation!
+Welcome to RTD Tutorial documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**RTD Tutorial** (/lu'make/) is a test documentation site for checking how docs-as-code tools work.
+It is currently located at the URL `RTD Tutorial Docs <https://haplio-rtd-tutorial.readthedocs.io/>`_
+
+*This is how we do italics*
+
+This is how we link to named pages in our repo like: `Next Begin`
+
+This is how we link to named headings anywhere in our doc: :ref:`Subheading 1`
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
