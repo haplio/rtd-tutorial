@@ -6,7 +6,7 @@ It is currently located at the URL `RTD Tutorial Docs <https://haplio-rtd-tutori
 
 *This is how we do italics*
 
-This is how we link to named pages in our repo like: `next-begin`
+This is how we link to named pages in our repo like: :doc:`next-begin`
 
 This is how we link to named headings anywhere in our doc: :ref:`subheading_1`
 
