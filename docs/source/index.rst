@@ -1,8 +1,10 @@
 Welcome to RTD Tutorial documentation!
 ===================================
 
-**RTD Tutorial** (/lu'make/) is a test documentation site for checking how docs-as-code tools work.
+**RTD Tutorial** (ReadTheDocs Tutorial) is a test documentation site for checking how docs-as-code tools work.
 It is currently located at the URL `RTD Tutorial Docs <https://haplio-rtd-tutorial.readthedocs.io/>`_
+
+This sentence is here just to test our local build of the docs
 
 *This is how we do italics*
 
