@@ -22,12 +22,9 @@ how to :ref:`installation` the project.
 .. note::
    Creating a test note here
 
-Contents
---------
+The document is organised as follows:
 
 .. toctree::
-   :hidden:
-   :maxdepth: 1
    :caption: Original Tree
    :name: sec-original
 
@@ -36,8 +33,6 @@ Contents
    moving-on
 
 .. toctree::
-   :hidden:
-   :maxdepth: 1
    :caption: Next Tree
    :name: sec-next
 

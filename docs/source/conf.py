@@ -31,5 +31,14 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_rtd_theme'
 
+html_theme_options = {
+    # if we have a html_logo below, this shows /only/ the logo with no title text
+    "logo_only": False,
+    # Collapse navigation (False makes it tree-like)
+    "collapse_navigation": False,
+    # Hide the documentation version name/number under the logo
+    "display_version": True,
+}
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
